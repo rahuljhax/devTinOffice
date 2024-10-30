@@ -1,0 +1,19 @@
+{
+  "name": "devtin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node ./src/app.js",
+    "dev":"nodemon ./src/app.js"
+  },
+  "keywords": [
+    "Node",
+    "js"
+  ],
+  "author": "Rahul Jha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
